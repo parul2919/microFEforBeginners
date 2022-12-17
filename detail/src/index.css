@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.detail-wrapper{
+  display:flex;
+  margin-top:100px;
+  border-top:1px solid #000;
+  border-bottom:1px solid #000;
+  padding-top:50px;
+}
+.detail-wrapper-image{
+  width:30%;
+  
+}
+.detail-wrapper-image img{
+  max-width: 100%;
+}
+.detail-wrapper-content{
+  width:70%
+}
